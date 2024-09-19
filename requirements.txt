@@ -1,0 +1,17 @@
+pandas
+numpy
+streamlit
+zscore
+LinearRegression
+train_test_split
+mean_squared_error
+SimpleImputer
+matplotlib.pyplot 
+seaborn
+KMeans
+StandardScaler
+PCA
+io
+euclidean
+psycopng2
+sqlalchemy 
