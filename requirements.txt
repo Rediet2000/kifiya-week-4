@@ -1,6 +1,5 @@
 pandas
 numpy
-streamlit
 zscore
 LinearRegression
 train_test_split
@@ -13,5 +12,4 @@ StandardScaler
 PCA
 io
 euclidean
-psycopng2
-sqlalchemy 
+
