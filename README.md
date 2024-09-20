@@ -12,25 +12,25 @@ This repository contains the code and resources for the Kifiya Week 4  tasks, fo
 2. Activate the virtual environment:
 
     On Windows
-    bash
+    ```bash
     
     myenv\Scripts\activate
 
     On macOS/Linux
 
-    bash
+    ```bash
     
     source myenv/bin/activate
 
 3. Install the required packages
 
-    bash
+    ```bash
     pip install -r requirements.txt
 
 4. Usage
    To run the Jupyter notebook for EDA, execute
 
-    bash
+   ``` bash
     
     jupyter notebook notebooks/eda_analysis_and_login.ipynb
 
@@ -40,7 +40,7 @@ This repository contains the code and resources for the Kifiya Week 4  tasks, fo
 6. License
     This Task is licensed under the MIT License - see the LICENSE file for details.
 
-    vbnet
+    ```vbnet
  
     This format keeps everything concise and organized while fitting onto one page. Let me know if you need further adjustments!
 
