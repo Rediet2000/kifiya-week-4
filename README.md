@@ -10,13 +10,12 @@ This repository contains the code and resources for the Kifiya Week 4  tasks, fo
    cd kifiya-week-4
 
 2. Activate the virtual environment:
-
-    On Windows
+ 
+ On Windows
     ```bash
     
     myenv\Scripts\activate
-
-    On macOS/Linux
+ On macOS/Linux
 
     ```bash
     
@@ -31,15 +30,14 @@ This repository contains the code and resources for the Kifiya Week 4  tasks, fo
    To run the Jupyter notebook for EDA, execute
 
    ``` bash
-    
-    jupyter notebook notebooks/eda_analysis_and_login.ipynb
+        jupyter notebook notebooks/eda_analysis_and_login.ipynb
 
 5. Acknowledgments
-    This  tasks leverages the Rossmann store sales dataset for analysis and insights into customer behavior.
+   
+   This  tasks leverages the Rossmann store sales dataset for analysis and insights into customer behavior.
 
-6. License
+7. License
     This Task is licensed under the MIT License - see the LICENSE file for details.
 
     ```vbnet
- 
     This format keeps everything concise and organized while fitting onto one page. Let me know if you need further adjustments!
