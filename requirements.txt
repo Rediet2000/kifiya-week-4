@@ -1,15 +1,8 @@
 pandas
 numpy
-zscore
-LinearRegression
-train_test_split
-mean_squared_error
-SimpleImputer
-matplotlib.pyplot 
+logging
+matplotlib.pyplot
+numpy
+matplotlib
 seaborn
-KMeans
-StandardScaler
-PCA
-io
-euclidean
 
