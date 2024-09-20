@@ -43,9 +43,3 @@ This repository contains the code and resources for the Kifiya Week 4  tasks, fo
     ```vbnet
  
     This format keeps everything concise and organized while fitting onto one page. Let me know if you need further adjustments!
-
-
-
-
-
-
