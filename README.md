@@ -16,16 +16,15 @@ To run the project, you will need to have Python installed along with the requir
  On Windows
   ```bash
       myenv\Scripts\activate
-On macOS/Linux
+ On macOS/Linux
   ```bash
     source myenv/bin/activate
-
-Install the required packages:
+3 Install the required packages
   ```bash
     pip install -r requirements.txt
 
-Usage
-To run the Jupyter notebook for EDA, execute the following command:
+4 Usage
+ To run the Jupyter notebook for EDA, execute the following command:
 
     '''bash
     jupyter notebook notebooks/eda_analysis_and_login.ipynb
