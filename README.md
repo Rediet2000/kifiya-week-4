@@ -24,20 +24,20 @@ This repository contains the code and resources for the Kifiya Week 4  tasks, fo
 
 3. Install the required packages
 
-    ```bash
-    pip install -r requirements.txt
+         ``` bash
+         pip install -r requirements.txt
 
-4. Usage
+6. Usage
    To run the Jupyter notebook for EDA, execute
 
    ``` bash
         jupyter notebook notebooks/eda_analysis_and_login.ipynb
 
-5. Acknowledgments
+7. Acknowledgments
    
    This  tasks leverages the Rossmann store sales dataset for analysis and insights into customer behavior.
 
-7. License
+8. License
     This Task is licensed under the MIT License - see the LICENSE file for details.
 
     ```vbnet
