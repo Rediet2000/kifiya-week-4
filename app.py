@@ -11,7 +11,7 @@ import logging
 
 
 # Setup logger for logging tasks
-logging.basicConfig(filename='./data/eda_task.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
+logging.basicConfig(filename='./log/eda_task.log', level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 logger = logging.getLogger()
 
 # 1. Load Data
